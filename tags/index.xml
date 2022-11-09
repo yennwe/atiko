@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>标签 on 盐微</title>
+    <link>https://yanwe.win/tags/</link>
+    <description>Recent content in 标签 on 盐微</description>
+    <image>
+      <url>https://yanwe.win/papermod-cover.png</url>
+      <link>https://yanwe.win/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 09 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanwe.win/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>女测谎师</title>
+      <link>https://yanwe.win/tags/%E5%A5%B3%E6%B5%8B%E8%B0%8E%E5%B8%88/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanwe.win/tags/%E5%A5%B3%E6%B5%8B%E8%B0%8E%E5%B8%88/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>守墓人</title>
+      <link>https://yanwe.win/tags/%E5%AE%88%E5%A2%93%E4%BA%BA/</link>
+      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://yanwe.win/tags/%E5%AE%88%E5%A2%93%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
