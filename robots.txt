@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://yanwe.win/sitemap.xml
+Sitemap: https://yennwe.github.io/sitemap.xml
