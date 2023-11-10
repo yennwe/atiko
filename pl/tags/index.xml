@@ -1,77 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on YANWE</title>
-    <link>https://yanwe.win/pl/tags/</link>
-    <description>Recent content in Tags on YANWE</description>
-    <image>
-      <url>https://yanwe.win/papermod-cover.png</url>
-      <link>https://yanwe.win/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanwe.win/pl/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pałacowe walki, pochówki i ekskluzywne przysługi: nieopowiedziana historia grobowców konsekratorów z dynastii Qing</title>
-      <link>https://yanwe.win/pl/tags/pa%C5%82acowe-walki-poch%C3%B3wki-i-ekskluzywne-przys%C5%82ugi-nieopowiedziana-historia-grobowc%C3%B3w-konsekrator%C3%B3w-z-dynastii-qing/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/pa%C5%82acowe-walki-poch%C3%B3wki-i-ekskluzywne-przys%C5%82ugi-nieopowiedziana-historia-grobowc%C3%B3w-konsekrator%C3%B3w-z-dynastii-qing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Życie Gao Shi, starego człowieka w pracy</title>
-      <link>https://yanwe.win/pl/tags/%C5%BCycie-gao-shi-starego-cz%C5%82owieka-w-pracy/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/%C5%BCycie-gao-shi-starego-cz%C5%82owieka-w-pracy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Przełamywanie wąskich gardeł poznawczych: ulepszanie systemu operacyjnego mózgu</title>
-      <link>https://yanwe.win/pl/tags/prze%C5%82amywanie-w%C4%85skich-garde%C5%82-poznawczych-ulepszanie-systemu-operacyjnego-m%C3%B3zgu/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/prze%C5%82amywanie-w%C4%85skich-garde%C5%82-poznawczych-ulepszanie-systemu-operacyjnego-m%C3%B3zgu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ingredient Party Skincare: tworzenie przystępnego cenowo rozwiązania dla konsumentów w zakresie pielęgnacji skóry</title>
-      <link>https://yanwe.win/pl/tags/ingredient-party-skincare-tworzenie-przyst%C4%99pnego-cenowo-rozwi%C4%85zania-dla-konsument%C3%B3w-w-zakresie-piel%C4%99gnacji-sk%C3%B3ry/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/ingredient-party-skincare-tworzenie-przyst%C4%99pnego-cenowo-rozwi%C4%85zania-dla-konsument%C3%B3w-w-zakresie-piel%C4%99gnacji-sk%C3%B3ry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kryminalistyczne notatki terenowe</title>
-      <link>https://yanwe.win/pl/tags/kryminalistyczne-notatki-terenowe/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/kryminalistyczne-notatki-terenowe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>9 prawdziwych przypadków, które uderzają w ciemną stronę ludzkiej natury</title>
-      <link>https://yanwe.win/pl/tags/9-prawdziwych-przypadk%C3%B3w-kt%C3%B3re-uderzaj%C4%85-w-ciemn%C4%85-stron%C4%99-ludzkiej-natury/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/9-prawdziwych-przypadk%C3%B3w-kt%C3%B3re-uderzaj%C4%85-w-ciemn%C4%85-stron%C4%99-ludzkiej-natury/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wielka sprawa serialu z lat 90</title>
-      <link>https://yanwe.win/pl/tags/wielka-sprawa-serialu-z-lat-90/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/pl/tags/wielka-sprawa-serialu-z-lat-90/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on YANWE</title>
+        <link>https://yanwe.win/pl/tags/</link>
+        <description>Recent content in Tags on YANWE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>pl</language><atom:link href="https://yanwe.win/pl/tags/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>

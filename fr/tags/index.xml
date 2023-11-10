@@ -1,86 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on YANWE</title>
-    <link>https://yanwe.win/fr/tags/</link>
-    <description>Recent content in Tags on YANWE</description>
-    <image>
-      <url>https://yanwe.win/papermod-cover.png</url>
-      <link>https://yanwe.win/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanwe.win/fr/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Bagarres de palais, enterrements et faveurs exclusives : l&#39;histoire inédite des tombes des consorts de la dynastie Qing</title>
-      <link>https://yanwe.win/fr/tags/bagarres-de-palais-enterrements-et-faveurs-exclusives-lhistoire-in%C3%A9dite-des-tombes-des-consorts-de-la-dynastie-qing/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/bagarres-de-palais-enterrements-et-faveurs-exclusives-lhistoire-in%C3%A9dite-des-tombes-des-consorts-de-la-dynastie-qing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>La vie de Gao Shi, un vieil homme au travail</title>
-      <link>https://yanwe.win/fr/tags/la-vie-de-gao-shi-un-vieil-homme-au-travail/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/la-vie-de-gao-shi-un-vieil-homme-au-travail/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Éliminer les goulets d&#39;étranglement cognitifs : améliorer le système d&#39;exploitation de votre cerveau</title>
-      <link>https://yanwe.win/fr/tags/%C3%A9liminer-les-goulets-d%C3%A9tranglement-cognitifs-am%C3%A9liorer-le-syst%C3%A8me-dexploitation-de-votre-cerveau/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/%C3%A9liminer-les-goulets-d%C3%A9tranglement-cognitifs-am%C3%A9liorer-le-syst%C3%A8me-dexploitation-de-votre-cerveau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ingredient Party Skincare : créer une solution de soins de la peau abordable pour les consommateurs</title>
-      <link>https://yanwe.win/fr/tags/ingredient-party-skincare-cr%C3%A9er-une-solution-de-soins-de-la-peau-abordable-pour-les-consommateurs/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/ingredient-party-skincare-cr%C3%A9er-une-solution-de-soins-de-la-peau-abordable-pour-les-consommateurs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Soirée des ingrédients - Soins de la peau: créer une solution de soins de la peau abordable pour les consommateurs</title>
-      <link>https://yanwe.win/fr/tags/soir%C3%A9e-des-ingr%C3%A9dients-soins-de-la-peau-cr%C3%A9er-une-solution-de-soins-de-la-peau-abordable-pour-les-consommateurs/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/soir%C3%A9e-des-ingr%C3%A9dients-soins-de-la-peau-cr%C3%A9er-une-solution-de-soins-de-la-peau-abordable-pour-les-consommateurs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Notes de terrain de la police scientifique</title>
-      <link>https://yanwe.win/fr/tags/notes-de-terrain-de-la-police-scientifique/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/notes-de-terrain-de-la-police-scientifique/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>9 cas réels qui illustrent le côté sombre de la nature humaine</title>
-      <link>https://yanwe.win/fr/tags/9-cas-r%C3%A9els-qui-illustrent-le-c%C3%B4t%C3%A9-sombre-de-la-nature-humaine/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/9-cas-r%C3%A9els-qui-illustrent-le-c%C3%B4t%C3%A9-sombre-de-la-nature-humaine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Série Les grandes affaires des années 90</title>
-      <link>https://yanwe.win/fr/tags/s%C3%A9rie-les-grandes-affaires-des-ann%C3%A9es-90/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/fr/tags/s%C3%A9rie-les-grandes-affaires-des-ann%C3%A9es-90/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on YANWE</title>
+        <link>https://yanwe.win/fr/tags/</link>
+        <description>Recent content in Tags on YANWE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>fr</language><atom:link href="https://yanwe.win/fr/tags/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>

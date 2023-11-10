@@ -1,95 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on YANWE</title>
-    <link>https://yanwe.win/id/tags/</link>
-    <description>Recent content in Tags on YANWE</description>
-    <image>
-      <url>https://yanwe.win/papermod-cover.png</url>
-      <link>https://yanwe.win/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanwe.win/id/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Pertarungan istana, pemakaman, dan bantuan eksklusif: kisah yang tak terungkap dari makam permaisuri dinasti Qing</title>
-      <link>https://yanwe.win/id/tags/pertarungan-istana-pemakaman-dan-bantuan-eksklusif-kisah-yang-tak-terungkap-dari-makam-permaisuri-dinasti-qing/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/pertarungan-istana-pemakaman-dan-bantuan-eksklusif-kisah-yang-tak-terungkap-dari-makam-permaisuri-dinasti-qing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kehidupan Gao Shi, seorang pria tua di tempat kerja</title>
-      <link>https://yanwe.win/id/tags/kehidupan-gao-shi-seorang-pria-tua-di-tempat-kerja/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/kehidupan-gao-shi-seorang-pria-tua-di-tempat-kerja/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Menerobos kemacetan kognitif: meningkatkan sistem operasi otak Anda</title>
-      <link>https://yanwe.win/id/tags/menerobos-kemacetan-kognitif-meningkatkan-sistem-operasi-otak-anda/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/menerobos-kemacetan-kognitif-meningkatkan-sistem-operasi-otak-anda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ingredient Party Skincare: Membangun Solusi Konsumen Perawatan Kulit yang Terjangkau</title>
-      <link>https://yanwe.win/id/tags/ingredient-party-skincare-membangun-solusi-konsumen-perawatan-kulit-yang-terjangkau/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/ingredient-party-skincare-membangun-solusi-konsumen-perawatan-kulit-yang-terjangkau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Perawatan Kulit Pesta Bahan: Membangun Solusi Konsumen Perawatan Kulit yang Terjangkau</title>
-      <link>https://yanwe.win/id/tags/perawatan-kulit-pesta-bahan-membangun-solusi-konsumen-perawatan-kulit-yang-terjangkau/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/perawatan-kulit-pesta-bahan-membangun-solusi-konsumen-perawatan-kulit-yang-terjangkau/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Catatan Lapangan Forensik</title>
-      <link>https://yanwe.win/id/tags/catatan-lapangan-forensik/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/catatan-lapangan-forensik/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>9 kasus kehidupan nyata yang menyentuh sisi gelap sifat manusia</title>
-      <link>https://yanwe.win/id/tags/9-kasus-kehidupan-nyata-yang-menyentuh-sisi-gelap-sifat-manusia/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/9-kasus-kehidupan-nyata-yang-menyentuh-sisi-gelap-sifat-manusia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Casing Hebat dari Seri 90-an</title>
-      <link>https://yanwe.win/id/tags/casing-hebat-dari-seri-90-an/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/casing-hebat-dari-seri-90-an/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Seri Kasing Hebat dari Tahun 90-an</title>
-      <link>https://yanwe.win/id/tags/seri-kasing-hebat-dari-tahun-90-an/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/id/tags/seri-kasing-hebat-dari-tahun-90-an/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on YANWE</title>
+        <link>https://yanwe.win/id/tags/</link>
+        <description>Recent content in Tags on YANWE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>id</language><atom:link href="https://yanwe.win/id/tags/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>

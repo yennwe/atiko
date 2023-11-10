@@ -1,95 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Tags on YANWE</title>
-    <link>https://yanwe.win/de/tags/</link>
-    <description>Recent content in Tags on YANWE</description>
-    <image>
-      <url>https://yanwe.win/papermod-cover.png</url>
-      <link>https://yanwe.win/papermod-cover.png</link>
-    </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://yanwe.win/de/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Palastkämpfe, Bestattungen und exklusive Gunst: die unerzählte Geschichte der Gemahlinnengräber der Qing-Dynastie</title>
-      <link>https://yanwe.win/de/tags/palastk%C3%A4mpfe-bestattungen-und-exklusive-gunst-die-unerz%C3%A4hlte-geschichte-der-gemahlinnengr%C3%A4ber-der-qing-dynastie/</link>
-      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/palastk%C3%A4mpfe-bestattungen-und-exklusive-gunst-die-unerz%C3%A4hlte-geschichte-der-gemahlinnengr%C3%A4ber-der-qing-dynastie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Das Leben von Gao Shi, einem alten Mann am Arbeitsplatz</title>
-      <link>https://yanwe.win/de/tags/das-leben-von-gao-shi-einem-alten-mann-am-arbeitsplatz/</link>
-      <pubDate>Mon, 28 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/das-leben-von-gao-shi-einem-alten-mann-am-arbeitsplatz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Kognitive Engpässe überwinden: Das Betriebssystem Ihres Gehirns aufrüsten</title>
-      <link>https://yanwe.win/de/tags/kognitive-engp%C3%A4sse-%C3%BCberwinden-das-betriebssystem-ihres-gehirns-aufr%C3%BCsten/</link>
-      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/kognitive-engp%C3%A4sse-%C3%BCberwinden-das-betriebssystem-ihres-gehirns-aufr%C3%BCsten/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ingredient Party Skincare: Aufbau einer erschwinglichen Hautpflegelösung für Verbraucher</title>
-      <link>https://yanwe.win/de/tags/ingredient-party-skincare-aufbau-einer-erschwinglichen-hautpflegel%C3%B6sung-f%C3%BCr-verbraucher/</link>
-      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/ingredient-party-skincare-aufbau-einer-erschwinglichen-hautpflegel%C3%B6sung-f%C3%BCr-verbraucher/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forensische Feldnotizen</title>
-      <link>https://yanwe.win/de/tags/forensische-feldnotizen/</link>
-      <pubDate>Mon, 14 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/forensische-feldnotizen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>9 Fälle aus dem wirklichen Leben, die die dunkle Seite der menschlichen Natur zeigen</title>
-      <link>https://yanwe.win/de/tags/9-f%C3%A4lle-aus-dem-wirklichen-leben-die-die-dunkle-seite-der-menschlichen-natur-zeigen/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/9-f%C3%A4lle-aus-dem-wirklichen-leben-die-die-dunkle-seite-der-menschlichen-natur-zeigen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Der große Fall der 90er Jahre Serie</title>
-      <link>https://yanwe.win/de/tags/der-gro%C3%9Fe-fall-der-90er-jahre-serie/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/der-gro%C3%9Fe-fall-der-90er-jahre-serie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Die großen Fälle der 90er Jahre Serie</title>
-      <link>https://yanwe.win/de/tags/die-gro%C3%9Fen-f%C3%A4lle-der-90er-jahre-serie/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/die-gro%C3%9Fen-f%C3%A4lle-der-90er-jahre-serie/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Große Fälle der 90er Jahre Serie</title>
-      <link>https://yanwe.win/de/tags/gro%C3%9Fe-f%C3%A4lle-der-90er-jahre-serie/</link>
-      <pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://yanwe.win/de/tags/gro%C3%9Fe-f%C3%A4lle-der-90er-jahre-serie/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Tags on YANWE</title>
+        <link>https://yanwe.win/de/tags/</link>
+        <description>Recent content in Tags on YANWE</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>de</language><atom:link href="https://yanwe.win/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
 </rss>
